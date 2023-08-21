@@ -1,8 +1,10 @@
-# React + Vite
+# Landing bank
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### [Online project](https://daocam.github.io/landing-bank/)
 
-Currently, two official plugins are available:
+This is a responsive landing page for a banking app. Developed with React and TailwindCSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How to use
+1. Clone the GitHub repository on your computer
+2. At the root of the project launch `npm install`
+3. At the root of the project launch `npm run dev`
